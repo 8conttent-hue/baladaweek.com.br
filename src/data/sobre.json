@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o BALADAWEEK"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "A BALADA WEEK é mais do que um clube; é um espaço onde você pode explorar seus desejos sem limites. Nossa missão é criar um ambiente inclusivo e prazeroso para todos que buscam novas experiências."
+  },
+  "content": "Na BALADA WEEK, oferecemos um espaço seguro e elegante para que você possa viver sua sexualidade de forma plena. O clube conta com uma variedade de ambientes, incluindo lounges confortáveis, pistas de dança e áreas externas para momentos de descontração.",
+  "mission": "Nossa missão é proporcionar experiências únicas, onde cada cliente se sinta bem-vindo e livre para explorar suas fantasias.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

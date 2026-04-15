@@ -1,0 +1,53 @@
+{
+  "name": "BALADAWEEK",
+  "slug": "baladaweek.com.br",
+  "description": "Como um dos mais populares clubes de swing do Brasil, BALADA WEEK - Swing House oferece um ambiente onde você pode satisfazer os seus desejos sem limitações. Com designs sofisticados e um serviço de alta qualidade que não fica atrás de nenhum outro, eles se tornaram um local de ponta para aqueles que procuram tanto relaxamento ou aventura com novos amigos de todo o mundo!",
+  "url": "https://baladaweek.com.br",
+  "niche": "Balada e Entretenimento",
+  "keywords": "Como um dos mais populares clubes de swing do Brasil BALADA WEEK",
+  "email": "contato@baladaweek.com.br",
+  "palette": "gold",
+  "colors": {
+    "primary": "#ca8a04",
+    "accent": "#92400e",
+    "dark": "#451a03"
+  },
+  "headerContrast": "light",
+  "font": "inter",
+  "fontFamily": "'Inter', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-E",
+    "hero": "Hero-B",
+    "features": "Features-D",
+    "about": "About-G",
+    "posts": "Posts-A",
+    "footer": "Footer-I",
+    "sobre": "Sobre-I",
+    "contato": "Contato-I"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

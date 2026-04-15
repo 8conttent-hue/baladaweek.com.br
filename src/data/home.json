@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "BALADAWEEK — Descubra o Prazer de Viver",
+    "description": "Bem-vindo à BALADA WEEK - O clube de swing mais popular do Brasil."
+  },
+  "hero": {
+    "title": "Descubra o Prazer de Viver",
+    "subtitle": "Bem-vindo à BALADA WEEK - O clube de swing mais popular do Brasil.",
+    "btnText": "Reserve sua Experiência",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "Nossos Diferenciais",
+    "items": [
+      {
+        "icon": "🌟",
+        "title": "Ambiente Sofisticado",
+        "desc": "Desfrute de um espaço projetado para proporcionar conforto e estilo, perfeito para momentos de descontração e diversão."
+      },
+      {
+        "icon": "🍸",
+        "title": "Serviço de Alta Qualidade",
+        "desc": "Nossa equipe está sempre pronta para atender suas necessidades com discrição e eficiência, garantindo uma experiência inesquecível."
+      },
+      {
+        "icon": "🌍",
+        "title": "Conexões Globais",
+        "desc": "Conheça pessoas de diferentes culturas e estabeleça novas amizades em um ambiente seguro e acolhedor."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a BALADA WEEK",
+    "desc": "A BALADA WEEK é mais do que um clube; é um espaço onde você pode explorar seus desejos sem limites. Nossa missão é criar um ambiente inclusivo e prazeroso para todos que buscam novas experiências.",
+    "stats": [
+      {
+        "value": "10+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "1000+",
+        "label": "Clientes Satisfeitos por Mês"
+      },
+      {
+        "value": "5",
+        "label": "Estrelas em Avaliações"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
